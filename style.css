@@ -1,0 +1,29 @@
+.task {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	margin-top: 8%;
+}
+
+.inputNumber {
+	width: 19%;
+	margin-left: 40%;
+	height: 50px;
+	font-size: 30px;
+	padding-left: 1%;
+}
+
+.result {
+	color: green;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.testNumber {
+	width: 20.2%;
+	margin-left: 40%;
+	height: 50px;
+	cursor: pointer;
+	font-size: 15px;
+}
